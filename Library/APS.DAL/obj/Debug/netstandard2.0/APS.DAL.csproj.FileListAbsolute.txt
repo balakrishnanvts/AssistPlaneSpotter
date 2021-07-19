@@ -1,0 +1,14 @@
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\bin\Debug\netstandard2.0\APS.DAL.deps.json
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\bin\Debug\netstandard2.0\APS.DAL.dll
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\bin\Debug\netstandard2.0\APS.DAL.pdb
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\bin\Debug\netstandard2.0\APS.GenericRepository.dll
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\bin\Debug\netstandard2.0\APS.Model.dll
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\bin\Debug\netstandard2.0\APS.GenericRepository.pdb
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\bin\Debug\netstandard2.0\APS.Model.pdb
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\obj\Debug\netstandard2.0\APS.DAL.csprojAssemblyReference.cache
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\obj\Debug\netstandard2.0\APS.DAL.AssemblyInfoInputs.cache
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\obj\Debug\netstandard2.0\APS.DAL.AssemblyInfo.cs
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\obj\Debug\netstandard2.0\APS.DAL.csproj.CoreCompileInputs.cache
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\obj\Debug\netstandard2.0\APS.DAL.csproj.CopyComplete
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\obj\Debug\netstandard2.0\APS.DAL.dll
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.DAL\obj\Debug\netstandard2.0\APS.DAL.pdb

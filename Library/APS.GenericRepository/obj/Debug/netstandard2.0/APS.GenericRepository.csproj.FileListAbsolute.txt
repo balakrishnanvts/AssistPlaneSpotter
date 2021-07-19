@@ -1,0 +1,8 @@
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.GenericRepository\bin\Debug\netstandard2.0\APS.GenericRepository.deps.json
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.GenericRepository\bin\Debug\netstandard2.0\APS.GenericRepository.dll
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.GenericRepository\bin\Debug\netstandard2.0\APS.GenericRepository.pdb
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.GenericRepository\obj\Debug\netstandard2.0\APS.GenericRepository.AssemblyInfoInputs.cache
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.GenericRepository\obj\Debug\netstandard2.0\APS.GenericRepository.AssemblyInfo.cs
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.GenericRepository\obj\Debug\netstandard2.0\APS.GenericRepository.csproj.CoreCompileInputs.cache
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.GenericRepository\obj\Debug\netstandard2.0\APS.GenericRepository.dll
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.GenericRepository\obj\Debug\netstandard2.0\APS.GenericRepository.pdb

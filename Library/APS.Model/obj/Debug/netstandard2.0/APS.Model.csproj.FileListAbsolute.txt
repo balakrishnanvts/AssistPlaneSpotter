@@ -1,0 +1,9 @@
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.Model\bin\Debug\netstandard2.0\APS.Model.deps.json
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.Model\bin\Debug\netstandard2.0\APS.Model.dll
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.Model\bin\Debug\netstandard2.0\APS.Model.pdb
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.Model\obj\Debug\netstandard2.0\APS.Model.AssemblyInfoInputs.cache
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.Model\obj\Debug\netstandard2.0\APS.Model.AssemblyInfo.cs
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.Model\obj\Debug\netstandard2.0\APS.Model.csproj.CoreCompileInputs.cache
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.Model\obj\Debug\netstandard2.0\APS.Model.dll
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.Model\obj\Debug\netstandard2.0\APS.Model.pdb
+C:\WorkingDocument\Backup\APS\AssistPlaneSpotter\Library\APS.Model\obj\Debug\netstandard2.0\APS.Model.csprojAssemblyReference.cache
